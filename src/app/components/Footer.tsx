@@ -74,7 +74,7 @@ export default function Footer() {
         </div>
 
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between text-xs text-gray-500 gap-4">
-          <p>© {new Date().getFullYear()} FRUTYORK. Todos los derechos reservados.</p>
+          <p>© 2026 FRUTYORK. Todos los derechos reservados.</p>
           <p>100% Pulpa Natural • Cero Químicos</p>
         </div>
       </div>
